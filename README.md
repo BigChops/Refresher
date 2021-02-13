@@ -7,7 +7,7 @@ I decided to try to go to a community college in Columbus, OH because both of my
 My current career goals are to just make myself more employable and learn about my interests.
 I chose FinTech because I felt like it was an exploding industry and wanted to learn more about blockchain and crypto currency and my brother sent me the information on this class and decided to enroll.
 
-![I like this picture](https://github.com/BigChops/uw_repository-spring2021/images/bearcover.png.jpg?raw=true)
+![I like this picture](https://github.com/[BigChops]/[uw_repository-spring2021]/images/bearcover.jpg?raw=true)
 
 ### Table of Contents
 [https://github.com/BigChops/uw_repository-spring2021/tree/main/code]
