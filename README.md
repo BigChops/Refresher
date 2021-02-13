@@ -9,7 +9,7 @@ I chose FinTech because I felt like it was an exploding industry and wanted to l
 
 ![Cool pic](http://pngimg.com/uploads/bear/bear_PNG23465.png)
 
-![I like this picture](https://github.com/[BigChops]/[uw_repository-spring2021]/images/bearcover.jpg?raw=true)
+![I like this picture](https://github.com/BigChops/uw_repository-spring2021/images/bearcover.jpg?raw=true)
 
 ### Table of Contents
 [https://github.com/BigChops/uw_repository-spring2021/tree/main/code]
